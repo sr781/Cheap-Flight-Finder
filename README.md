@@ -1,5 +1,5 @@
 # Cheap-Flight-Finder
-If a flight is found where the destination is on Google sheets and the price is below the threshold, a text message is sent informing the recipient. This project incorporates: application programming interface for getting data from the Google sheets file, flight data information from Tequila and Twilio to send the text message.
+If a flight is found where the destination is on Google sheets and the price is below the threshold, a text message is sent informing the recipient. Flight data is requested and obtained via an API from KIWI flights. This project incorporates: application programming interface for getting data from the Google sheets file, flight data information from Tequila and Twilio to send the text message.
 
 
 ![image](https://user-images.githubusercontent.com/96390217/187093711-5a5f3c9f-0f60-4500-928d-9490774fe85c.png)
